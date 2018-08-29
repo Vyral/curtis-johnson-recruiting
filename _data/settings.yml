@@ -1,6 +1,6 @@
 audit_header: false
-title: Phoenix Real Estate Video Blog with -- CLIENT NAME --
-description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
+title: Phoenix's Best Real Estate Training
+description: Curtis Johnson, a top Real Estate Agent in Phoenix, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: false
 custom_links:
   - title:
@@ -11,9 +11,9 @@ client:
   title:
   license_number:
   about_markdown: |
-    Here at The Curtis Johnson Team, we've put together all the information and tools you need to buy or sell a home in the Metro Phoenix and East Valley real estate market.
+    One of the most connected and sought after minds in real estate, Curtis runs a highly successful real estate team, having sold over 3,000 residential homes. The Wall Street Journal ranked Curtis Johnson Realty as one of the Top 50 out of 1.2 million REALTORS in America.
 
-    Don't just take our word for it ... <strong>The Wall Street Journal ranked our real estate team as one of the Top 50 in America.</strong>
+    After years of dissecting the real estate transaction and discovering the key elements that affect the sale - he flipped the typical real estate transaction on its head. He systematized the process, resulting in his exclusive 89 Step No Risk Home Sale, and 47 Step Home Discovery and Acquisition Method.
 
     Curtis has been featured nationally on the cover of REALTOR Magazine, prominently in CNN Money Magazine as well as interviewed locally on virtually every TV station and newspaper. Curtis and his selling system have been featured on the 60 Minutes equivalent in several countries internationally.
   market: Phoenix
@@ -28,24 +28,16 @@ client:
   url: http://www.CurtisJohnson.com
 
 CTAs:
-  first_CTA_text: Home Valuation
-  first_CTA_URL: http://www.instantvalueonline.com/
-  second_CTA_text: Home Search
-  second_CTA_URL: http://www.curtisjohnsonrealty.com/
+  first_CTA_text: Request a Consultation
+  first_CTA_URL: /contact/
 
 sidebar_CTA:
-  - CTA_image_path: /img/cta-images/004.jpg
-    CTA_title: "What’s Your -- MARKET -- Home Worth?"
-    CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
-    CTA_link_text: "Free Home Value Report"
-    CTA_url: http://www.instantvalueonline.com/
+  - CTA_image_path: 'https://lh5.googleusercontent.com/proxy/V9aLZKkQrMp5XTS9sOr7LymNyck_AVJ_gvu_tGfKBwwkf1pwq6YGvfaWCfpFqZ2gU3s=s0-d'
+    CTA_title: Looking to Build Your Real Estate Career?
+    CTA_text: "Let's talk about how The Curtis Johnson Team can take your business to new heights."
+    CTA_link_text: Request a Free Strategy Session
+    CTA_url: '/contact/'
 
-second_sidebar_CTA:
-  - CTA_image_path2: /img/cta-images/005.jpg
-    CTA_title2: "Looking for a -- MARKET -- Home?"
-    CTA_text2: "Search the entire MLS for your -- MARKET -- home."
-    CTA_link_text2: "Search the MLS"
-    CTA_url2: http://www.curtisjohnsonrealty.com/
 
 lender:
   show_section: false
@@ -86,7 +78,7 @@ images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 30
-  # hero_text: -- MARKET -- Real Estate Video Blog
+  hero_text: -- MARKET -- Real Estate Careers Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
@@ -104,7 +96,7 @@ header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
+  shadow_color: '#eeeeee'
 
 buttons:
   button_radius_number: 0
