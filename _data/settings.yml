@@ -1,5 +1,5 @@
 audit_header: false
-title: -- MARKET -- Real Estate Video Blog with -- CLIENT NAME --
+title: Phoenix Real Estate Video Blog with -- CLIENT NAME --
 description: Our mission at -- CLIENT BRAND -- is to be your best resource for -- MARKET -- real estate advice. Whether you are a buyer, seller, or investor, our team of professionals can answer any questions you might have about real estate. If you are looking to buy or sell a home, you can get all the information and the latest updates, tips, and tricks from The -- CLIENT BRAND --, your professional -- MARKET -- Real Estate Agents.
 show_custom_links: false
 custom_links:
@@ -7,41 +7,45 @@ custom_links:
     url:
 
 client:
-  name:
+  name: Curtis Johnson
   title:
   license_number:
   about_markdown: |
+    Here at The Curtis Johnson Team, we've put together all the information and tools you need to buy or sell a home in the Metro Phoenix and East Valley real estate market.
 
-  market:
-  brand:
-  brokerage:
-  address:
-  phone:
+    Don't just take our word for it ... <strong>The Wall Street Journal ranked our real estate team as one of the Top 50 in America.</strong>
+
+    Curtis has been featured nationally on the cover of REALTOR Magazine, prominently in CNN Money Magazine as well as interviewed locally on virtually every TV station and newspaper. Curtis and his selling system have been featured on the 60 Minutes equivalent in several countries internationally.
+  market: Phoenix
+  brand: The Curtis Johnson Team
+  brokerage: EXP Realty
+  address: 2450 South Gilbert Rd. Ste 211<br>Chandler, AZ 85286
+  phone: 480-355-4000
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: Curtis@CurtisJohnsonRealty.com
+  url: http://www.CurtisJohnson.com
 
 CTAs:
   first_CTA_text: Home Valuation
-  first_CTA_URL: /homevalue/
+  first_CTA_URL: http://www.instantvalueonline.com/
   second_CTA_text: Home Search
-  second_CTA_URL: /homesearch/
+  second_CTA_URL: http://www.curtisjohnsonrealty.com/
 
 sidebar_CTA:
   - CTA_image_path: /img/cta-images/004.jpg
     CTA_title: "What’s Your -- MARKET -- Home Worth?"
     CTA_text: "Are you thinking of selling your home or interested in learning about home prices in your neighborhood? We can help you."
     CTA_link_text: "Free Home Value Report"
-    CTA_url: /homevalue/
+    CTA_url: http://www.instantvalueonline.com/
 
 second_sidebar_CTA:
   - CTA_image_path2: /img/cta-images/005.jpg
     CTA_title2: "Looking for a -- MARKET -- Home?"
     CTA_text2: "Search the entire MLS for your -- MARKET -- home."
     CTA_link_text2: "Search the MLS"
-    CTA_url2: /homesearch/
+    CTA_url2: http://www.curtisjohnsonrealty.com/
 
 lender:
   show_section: false
@@ -57,17 +61,17 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
-  gplus_url:
-  youtube_url:
-  twitter_url:
+  facebook_url: https://www.facebook.com/curtisjohnsonrealtyaz
+  linkedin_url: https://www.linkedin.com/pub/curtis-johnson/6/45/aa5
+  gplus_url: https://plus.google.com/105629530708977286822/about
+  youtube_url: https://www.youtube.com/channel/UCkcQm7SVBRvka2OrbLuMs0A
+  twitter_url: https://twitter.com/curtisjohnsonaz
   instagram_url:
   pinterest_url:
-  zillow_url:
-  trulia_url:
-  yelp_url:
-  podcast_url:
+  zillow_url: http://www.zillow.com/profile/curtisjohnsonrealty1/
+  trulia_url: http://www.trulia.com/profile/curtis-johnson--agent-gilbert-az-18204886/overview
+  yelp_url: http://www.yelp.com/biz/curtis-johnson-realty-gilbert-2
+  podcast_url: https://itunes.apple.com/us/podcast/phoenix-real-estate-podcast/id1183106291?mt=2
 
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
@@ -81,14 +85,14 @@ podcast:
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
-  logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
+  logo_width_number: 30
+  # hero_text: -- MARKET -- Real Estate Video Blog
   hero_background_hex: '#999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#CBAB66'
+  theme_color: '#323232'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
