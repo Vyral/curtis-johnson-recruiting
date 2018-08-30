@@ -22,7 +22,7 @@ youtube_code: S2oAPhbtjI4
 
 {% include youtube.html %}
 
-I’ve got an exciting message to share with you today: **eXp Realty’s new “Maximize and Scale Your Real Estate Business” page has just launched!**
+I’ve got an exciting message to share with you today: [**eXp Realty’s new “Maximize and Scale Your Real Estate Business” page has just launched!**](https://www.facebook.com/maximizeandscaleyourrealestatebusiness/)
 
 I put this page together as a place to share informational videos, as well as the tips and tricks my own team has used to sell over 5,000 homes over the last 20 years. The strategies we’ve maintained for the past two decades have not only helped us to produce at a higher level, but also to retain more of our fees.
 
