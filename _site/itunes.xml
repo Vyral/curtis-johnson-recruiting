@@ -7,7 +7,7 @@
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Curtis Johnson Team - your professional Phoenix Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Curtis Johnson</managingEditor>
-    <lastBuildDate>2018-08-29 16:06:07 -0500</lastBuildDate>
+    <lastBuildDate>2018-10-24 09:28:29 -0500</lastBuildDate>
     <media:copyright>Curtis Johnson</media:copyright>
     <media:thumbnail url="http://localhost:4000/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Phoenix, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
@@ -24,6 +24,76 @@
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Curtis Johnson Team - your professional Phoenix Real Estate Agents.</itunes:summary>
       <itunes:category text="Education"/>
     
+      <item>
+        <title>The Difference Between Average Agents and Super Agents</title>
+        <link>http://localhost:4000/the-difference-between-average-agents-and-super-agents.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Curtis Johnson</author>
+        <pubDate>2018-10-23 13:24:39 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Curtis+Johnson/Videos/The+Hole+Vs.+The+Screw.mp4</guid>
+        <description>
+
+Why do I have a drill bit in my hand? Let me explain.
+
+If struggling agents were going to try to sell a drill bit, they would explain its setup—what type of metal it’s made of, etc.
+
+Now, high-producing agents would talk about the hole—nobody really wants a drill bit. These agents will sell the product based on what it can do or produce
+
+Super high-producing agents, on the other had, won’t just talk about the drill bit and what makes it special. They’ll paint a picture with its possibilities and sell it based on its utilities, like hanging up a clock or a family portrait.
+
+“You need to be creative and illustrate the full potential of a home in order to maximize and scale your business.”
+
+Now, of course real estate agents aren’t selling drill bits, but the lesson here also applies to selling homes. A truly skilled agent won’t just talk about the home’s construction or layout, but rather highlight how it will change your life. My point is that you need to be creative and illustrate the full potential of a home in order to maximize and scale your business.
+
+If you have any questions about real estate, I’d be happy to speak with you. Reach out to the Curtis Johnson Team any time.
+
+ 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Curtis+Johnson/Videos/The+Hole+Vs.+The+Screw.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Curtis+Johnson/Videos/The+Hole+Vs.+The+Screw.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>Average agents try to sell the drill bit where skilled agents try to sell its potential. Let me explain what I mean.</itunes:subtitle>
+        <itunes:author>Curtis Johnson</itunes:author>
+        <itunes:summary>Average agents try to sell the drill bit where skilled agents try to sell its potential. Let me explain what I mean.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Phoenix, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
+      <item>
+        <title>Our New Page Could Help Unlock a More Successful Future for Your Business</title>
+        <link>http://localhost:4000/our-new-page-could-help-unlock-a-more-successful-future-for-your-business.html</link>
+        
+          <category>Real Estate</category>
+        
+        <author>Curtis Johnson</author>
+        <pubDate>2018-08-30 15:26:42 -0500</pubDate>
+        <guid>https://s3.amazonaws.com/vyralmarketing/Curtis+Johnson/Videos/Maximize+And+Scale+Your+Business.mp4</guid>
+        <description>
+
+I’ve got an exciting message to share with you today: eXp Realty’s new “Maximize and Scale Your Real Estate Business” page has just launched!
+
+I put this page together as a place to share informational videos, as well as the tips and tricks my own team has used to sell over 5,000 homes over the last 20 years. The strategies we’ve maintained for the past two decades have not only helped us to produce at a higher level, but also to retain more of our fees.
+
+“I can’t wait to share the the tips and tricks my team has used to sell over 5,000 homes in the last 20 years.”
+
+These strategies come from some of the best real estate coaches in the country, so I hope that learning more about them through the videos on this new page will help you see the same success we have.
+
+If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
+
+ 
+</description>
+        <enclosure url="https://s3.amazonaws.com/vyralmarketing/Curtis+Johnson/Videos/Maximize+And+Scale+Your+Business.mp4" length="" type="video/mp4"/>
+        <media:thumbnail url="http://localhost:4000" height="72" width="72"/>
+        <media:content url="https://s3.amazonaws.com/vyralmarketing/Curtis+Johnson/Videos/Maximize+And+Scale+Your+Business.mp4" type="video/mp4"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:subtitle>eXp Realty has just launched its new “Maximize and Scale Your Real Estate Business” page, and today I’d like to share what you’ll find there moving forward.</itunes:subtitle>
+        <itunes:author>Curtis Johnson</itunes:author>
+        <itunes:summary>eXp Realty has just launched its new “Maximize and Scale Your Real Estate Business” page, and today I’d like to share what you’ll find there moving forward.</itunes:summary>
+        <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Phoenix, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
+      </item>
+      
       <item>
         <title>What Kind of Training Do We Provide for Our Agents? </title>
         <link>http://localhost:4000/phoenix-real-estate-agent-why-we.html</link>
