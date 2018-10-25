@@ -25,7 +25,7 @@ Why do I have a drill bit in my hand? Let me explain.
 
 **If struggling agents were going to try to sell a drill bit, they would explain its setup**—what type of metal it’s made of, etc.
 
-Now, high-producing agents would talk about the hole—nobody really wants a drill bit. These agents will **sell the product based on what it can do or produce**
+Now, high-producing agents would talk about the hole—nobody really wants a drill bit. These agents will **sell the product based on what it can do or produce.**
 
 Super high-producing agents, on the other had, won’t just talk about the drill bit and what makes it special. **They’ll paint a picture with its possibilities** and sell it based on its utilities, like hanging up a clock or a family portrait.
 
